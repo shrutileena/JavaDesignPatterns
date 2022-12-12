@@ -1,0 +1,15 @@
+com\mycompany\javadesignpatterns\BuilderPattern\Builder.class
+com\mycompany\javadesignpatterns\BuilderPattern\Bedroom.class
+com\mycompany\javadesignpatterns\PrototypePattern\Rabbit$Breed.class
+com\mycompany\javadesignpatterns\PrototypePattern\Main.class
+com\mycompany\javadesignpatterns\BuilderPattern\Kitchen.class
+com\mycompany\javadesignpatterns\BuilderPattern\Room.class
+com\mycompany\javadesignpatterns\BuilderPattern\House.class
+com\mycompany\javadesignpatterns\BuilderPattern\BedroomBuilder.class
+com\mycompany\javadesignpatterns\BuilderPattern\RoomListBuilder.class
+com\mycompany\javadesignpatterns\BuilderPattern\KitchenBuilder.class
+com\mycompany\javadesignpatterns\BuilderPattern\RoomBuilder.class
+com\mycompany\javadesignpatterns\PrototypePattern\Rabbit.class
+com\mycompany\javadesignpatterns\SingletonPattern\ResourceManager.class
+com\mycompany\javadesignpatterns\BuilderPattern\Architect.class
+com\mycompany\javadesignpatterns\SingletonPattern\PrintSpooler.class
