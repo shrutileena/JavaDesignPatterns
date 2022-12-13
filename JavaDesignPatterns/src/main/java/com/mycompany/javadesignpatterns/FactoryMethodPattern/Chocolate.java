@@ -18,6 +18,7 @@ public class Chocolate extends Candy{
         for(int i=0; i<quantity; i++){
             chocolatePackage.add(new Chocolate());
         }
+        System.out.println(quantity+" package of chocolate package.");
         return chocolatePackage;
     }
     

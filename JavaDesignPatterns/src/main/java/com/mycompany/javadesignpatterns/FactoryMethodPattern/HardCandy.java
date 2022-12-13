@@ -18,6 +18,7 @@ public class HardCandy extends Candy{
         for(int i=0; i<quantity; i++){
             hardCandyPackage.add(new HardCandy());
         }
+        System.out.println(quantity+" package of hard candy package.");
         return hardCandyPackage;
     }
     

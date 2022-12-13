@@ -4,10 +4,18 @@
  */
 package com.mycompany.javadesignpatterns.FactoryMethodPattern;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author shrut
  */
 public class CandyStore {
+
+    private static final CandyFactory candyFactory = new CandyFactory();
     
+    public static void main(String[] args) {
+        
+        candyFactory.getCandyPackage(1, "chocolate");
+    }
 }
