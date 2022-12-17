@@ -2,7 +2,7 @@ package com.mycompany.javadesignpatterns.AbstractFactoryPattern;
 
 /**
  *
- * @author bethan
+ * @author shrut
  */
 public class RoadBikeHandlebar extends Handlebar {
 

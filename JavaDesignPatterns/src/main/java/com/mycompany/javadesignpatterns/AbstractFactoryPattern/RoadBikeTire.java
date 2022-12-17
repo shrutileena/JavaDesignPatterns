@@ -3,7 +3,7 @@ package com.mycompany.javadesignpatterns.AbstractFactoryPattern;
 
 /**
  *
- * @author bethan
+ * @author shrut
  */
 public class RoadBikeTire extends Tire {
     
