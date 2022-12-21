@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ChallengeFiveMediatorPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeFiveMediatorPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeFourIteratorPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeFourIteratorPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeOneChainOfResponsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeOneChainOfResponsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeSevenObserverPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeSevenObserverPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeSixMementoPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeSixMementoPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeThreeInterpreterPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeThreeInterpreterPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeTwoCommandPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChallengeTwoCommandPattern/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BehavioralDesignChallenge.iml" filepath="$PROJECT_DIR$/.idea/BehavioralDesignChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeFiveMediatorPattern/ChallengeFive.iml" filepath="$PROJECT_DIR$/ChallengeFiveMediatorPattern/ChallengeFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeFourIteratorPattern/ChallengeFour.iml" filepath="$PROJECT_DIR$/ChallengeFourIteratorPattern/ChallengeFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" filepath="$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSevenObserverPattern/ChallengeSevenObserverPattern.iml" filepath="$PROJECT_DIR$/ChallengeSevenObserverPattern/ChallengeSevenObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSixMementoPattern/ChallengeSix.iml" filepath="$PROJECT_DIR$/ChallengeSixMementoPattern/ChallengeSix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeThreeInterpreterPattern/ChallengeThree.iml" filepath="$PROJECT_DIR$/ChallengeThreeInterpreterPattern/ChallengeThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChallengeFive/ChallengeFive.iml" filepath="$PROJECT_DIR$/ChallengeFive/ChallengeFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeFour/ChallengeFour.iml" filepath="$PROJECT_DIR$/ChallengeFour/ChallengeFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" filepath="$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSeven/ChallengeSeven.iml" filepath="$PROJECT_DIR$/ChallengeSeven/ChallengeSeven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeSix/ChallengeSix.iml" filepath="$PROJECT_DIR$/ChallengeSix/ChallengeSix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeThree/ChallengeThree.iml" filepath="$PROJECT_DIR$/ChallengeThree/ChallengeThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StructuralDesignChallenge.iml" filepath="$PROJECT_DIR$/.idea/StructuralDesignChallenge.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ChallengeThree" />
+        <module name="ChallengeSix" />
+        <module name="ChallengeTwo" />
+        <module name="ChallengeFive" />
+        <module name="ChallengeSevenObserverPattern" />
+        <module name="ChallengeFour" />
+        <module name="ChallengeOne" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChallengeFive" target="1.8" />
+      <module name="ChallengeFour" target="1.8" />
+      <module name="ChallengeOne" target="1.8" />
+      <module name="ChallengeSevenObserverPattern" target="1.8" />
+      <module name="ChallengeSix" target="1.8" />
+      <module name="ChallengeThree" target="1.8" />
+      <module name="ChallengeTwo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
